@@ -367,3 +367,19 @@ footer p {
 	color: #999999;	
 	margin-top: 50px;
 }
+
+
+@media(max-width:320px){
+	nav li{
+		font-size: 9x;
+	}
+}
+
+
+
+
+
+
+
+
+
